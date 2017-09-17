@@ -7,6 +7,7 @@ function forLoop(array){
 
 function whileLoop(n){
   while (n > 0){
+    Console.log(n);
     n--;
   }
   return "done";
