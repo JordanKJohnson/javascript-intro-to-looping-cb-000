@@ -4,3 +4,10 @@ function forLoop(array){
   }
   return array;
 }
+
+function whileLoop(n){
+  while (n > -1){
+    n--;
+  }
+  return n;
+}
